@@ -15,7 +15,7 @@
             "chainId":1,
             "decimals":6,
             "name":"SmartX",
-            "logoURI":"https://coin.top/production/upload/logo/TYdhGDjrsJPKwmVqgnzFHgBpbAkeJn6ect.png"
+            "logoURI":"https://coin.top/production/upload/logo/TPVRbjxhvCcgw9ZajcTJbYbCRPTVBhum7p.png"
         },
         {
             "symbol":"CVX",
